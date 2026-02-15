@@ -14,6 +14,6 @@ A simple web app that formats telephone numbers into the format: +(123) - 456789
 - `script.js` → JavaScript logic
 
 ## ▶️ Usage
-1. Clone the repo: git clone https://github.com/your-username/telephone-formatter.git
+1. Clone the repo: https://github.com/varsha-singh-uidev/Telephone-Formatter.git
 2. Open index.html in your browser.
 3. Start typing a phone number and watch it format automatically!
